@@ -53,3 +53,5 @@ It describes how to perceive the information.
 - The white spaces are called the Gutters.
 - The number of columns is a divisible number of the grid units.
 - Each grid square is based on a unit of measure.
+- Grid size 
+![alt text](https://github.com/brianblaze14/ui-ux-design-project/blob/master/images/grip_design.PNG)
