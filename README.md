@@ -70,7 +70,7 @@
   - It establishes hirarchy
 
   - Content-> 
-      1. It should be concice, succinct and usable,
+    1. It should be concice, succinct and usable,
           1. Headings
           2. Buttons
           3. Field Labels
