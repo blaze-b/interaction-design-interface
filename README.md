@@ -20,22 +20,15 @@
 
 ### Gestalt Principles
 
-  It describes how to perceive the information.
+  - It describes how to perceive the information,
 
-    1. Proximity
-    2. Similarity
-    3. Closure
-    4. Continuity
-    5. Connection
-
-  1. Proximity Principle
-
-    - Perception of relationships between objects close that are close to each other.
-
-  2. Similarity principle
-
-    - Perception of relationships between objects similar to each other
-
+      1. Proximity
+        - Perception of relationships between objects close that are close to each other.
+      2. Similarity  
+        - Perception of relationships between objects similar to each other
+      3. Closure
+      4. Continuity
+      5. Connection
 
 ### Accentuate Relationships
 
@@ -76,41 +69,41 @@
 
   - It establishes hirarchy
 
-  1. Content-> 
-    - It should be concice, succinct and usable
-        1. Headings
-        2. Buttons
-        3. Field Labels
-        4. Help Text
-        5. Table Headings
-        6. Content
-    - Bold, Italics for emphasis
-    - Underlined can be used but not for emphasizing
-    - Uppercase for short headings
-    - Sentence casing
-    - Always Left aligned
-    - Dont use less than 11 px for body copy
+  - Content-> 
+      1. It should be concice, succinct and usable,
+          1. Headings
+          2. Buttons
+          3. Field Labels
+          4. Help Text
+          5. Table Headings
+          6. Content
+      2. Bold, Italics for emphasis
+      3. Underlined can be used but not for emphasizing
+      4. Uppercase for short headings
+      5. Sentence casing
+      6. Always Left aligned
+      7. Dont use less than 11 px for body copy
 
-  2. Icons
-    - It supports content scannability
-    - It should appear related to each other and belong to the same set
-    - Test icons on various backgrounds and for cultural appropriateness
-    - Line Weights should be considered
-    - Fill Style -> Solid Color or outlined
-    - Coloring
+    2. Icons
+      1. It supports content scannability
+      2. It should appear related to each other and belong to the same set
+      3. Test icons on various backgrounds and for cultural appropriateness
+      4. Line Weights should be considered
+      5. Fill Style -> Solid Color or outlined
+      6. Coloring
 
-  3. Colors 
-    - It can be used to associate information and convey hierarchy
-    - It provide emphasis
-    - Gray used to deemphasize elements.
-    - Gradient and drop shadows can add depth and dimension
-    - Contrast Ratio must allow for distinguishing elements from the background
-    - Run through Contrast Checker
+    3. Colors 
+      1. It can be used to associate information and convey hierarchy
+      2. It provide emphasis
+      3. Gray used to deemphasize elements.
+      4. Gradient and drop shadows can add depth and dimension
+      5. Contrast Ratio must allow for distinguishing elements from the background
+      6. Run through Contrast Checker
 
-  4. Illustrations
-    - For Onboarding
-    - Describe and support content
-    - Empty States
+    4. Illustrations
+      1. For Onboarding
+      2. Describe and support content
+      3. Empty States
 
 
 ### Data
